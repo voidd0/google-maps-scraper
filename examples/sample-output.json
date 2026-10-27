@@ -1,0 +1,142 @@
+[
+  {
+    "searchQuery": "coffee shop in Berlin",
+    "position": 1,
+    "name": "Refinery High End Coffee",
+    "category": "Coffee shop",
+    "categories": [
+      "Coffee shop"
+    ],
+    "address": "Albrechtstraße 11B, 10117 Berlin, Germany",
+    "street": "Albrechtstraße 11B",
+    "city": "Berlin",
+    "postalCode": "10117",
+    "countryCode": "DE",
+    "neighborhood": "Mitte",
+    "latitude": 52.5213117,
+    "longitude": 13.3849173,
+    "rating": 4.6,
+    "reviewsCount": 1221,
+    "website": "http://refinerycoffee.de/",
+    "openingHours": [
+      {
+        "day": "Tuesday",
+        "hours": "8 AM-6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM-6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM-6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM-6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM-6 PM"
+      }
+    ],
+    "placeId": "ChIJ9UK3L8JRqEcRidYSi6cycYo",
+    "featureId": "0x47a851c22fb742f5:0x8a7132a78b12d689",
+    "cid": "9975810344776554121",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJ9UK3L8JRqEcRidYSi6cycYo"
+  },
+  {
+    "searchQuery": "coffee shop in Berlin",
+    "position": 2,
+    "name": "LAP COFFEE",
+    "category": "Coffee shop",
+    "categories": [
+      "Coffee shop"
+    ],
+    "address": "Rosenthaler Strasse 62, 10119 Berlin, Germany",
+    "street": "Rosenthaler Strasse 62",
+    "city": "Berlin",
+    "postalCode": "10119",
+    "countryCode": "DE",
+    "neighborhood": "Mitte",
+    "latitude": 52.5276603,
+    "longitude": 13.4035268,
+    "rating": 4.7,
+    "reviewsCount": 851,
+    "website": "http://www.lap.coffee/",
+    "openingHours": [
+      {
+        "day": "Tuesday",
+        "hours": "7:30 AM-6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:30 AM-6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30 AM-6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:30 AM-6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM-7 PM"
+      }
+    ],
+    "placeId": "ChIJZStJ7KFRqEcRzRngO3uVeHI",
+    "featureId": "0x47a851a1ec492b65:0x7278957b3be019cd",
+    "cid": "8248507074047121869",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJZStJ7KFRqEcRzRngO3uVeHI"
+  },
+  {
+    "searchQuery": "coffee shop in Berlin",
+    "position": 3,
+    "name": "Oslo Kaffebar",
+    "category": "Coffee shop",
+    "categories": [
+      "Coffee shop",
+      "Cafe",
+      "Espresso bar"
+    ],
+    "address": "Eichendorffstraße 13, 10115 Berlin, Germany",
+    "street": "Eichendorffstraße 13",
+    "city": "Berlin",
+    "postalCode": "10115",
+    "countryCode": "DE",
+    "neighborhood": "Mitte",
+    "latitude": 52.530989399999996,
+    "longitude": 13.3867522,
+    "rating": 4.5,
+    "reviewsCount": 1566,
+    "website": "http://www.oslokaffebar.co/",
+    "openingHours": [
+      {
+        "day": "Tuesday",
+        "hours": "8 AM-7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM-7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM-7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM-7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM-7 PM"
+      }
+    ],
+    "placeId": "ChIJb4gZN-xRqEcRBgNOzFMM55A",
+    "featureId": "0x47a851ec3719886f:0x90e70c53cc4e0306",
+    "cid": "10441327815131267846",
+    "url": "https://www.google.com/maps/place/?q=place_id:ChIJb4gZN-xRqEcRBgNOzFMM55A"
+  }
+]

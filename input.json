@@ -1,0 +1,8 @@
+{
+  "searchQueries": [
+    "coffee shop"
+  ],
+  "location": "Berlin",
+  "language": "en",
+  "maxItems": 20
+}
